@@ -4,7 +4,7 @@ This is a project form Udacity's React Nanodegree called Would you rather. The p
 
 ## Installation
 
-- clone repo `git clone https://github.com/alaanaeim125/would_you_rather.git`
+- clone repo `https://github.com/alaanaeeim/Would_You_Rather`
 - install project with `npm install`
 - run with `npm start`
 
