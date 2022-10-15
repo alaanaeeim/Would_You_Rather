@@ -19,4 +19,3 @@ screenShot
   <img src="./screenShots/4.png" width="100%" /> 
   <img src="./screenShots/5.png" width="100%" /> 
 </p>
-# Would_You_Rather
